@@ -3,8 +3,10 @@
 
 
 ## A
+- [adafruit-blinka: circuitpython hardware api libraries for micropython, cpython devices](https://github.com/gigama/adafruit-blinka)
 - [autokey: autokey, desktop automation utility for linux x11](https://github.com/gigama/autokey)
 - [autosploit: automated mass exploiter](https://github.com/gigama/autosploit)
+- [awesome-intelligence: open-source intelligence (osint) resources](https://github.com/gigama/awesome-intelligence)
 - [awesome-userscripts: curated list of awesome userscripts](https://github.com/gigama/awesome-userscripts)
 
 
@@ -34,6 +36,7 @@
 
 
 ## D
+- [datasette: open source multi-tool for exploring publishing data](https://github.com/gigama/datasette)
 - [diceware: passphrases to remember](https://github.com/gigama/diceware)
 - [dotfiles-dhruva: single dot that has it all](https://github.com/gigama/dotfiles-dhruva)
 - [dotfiles-mathias: dotfiles sensible hacker defaults including ~/.macos](https://github.com/gigama/dotfiles-mathias)
@@ -45,6 +48,7 @@
 - [eliptic-curve-known-attacks: known attacks on elliptic curve cryptography](https://github.com/gigama/eliptic-curve-known-attacks)
 - [encpass.sh: lightweight solution for using encrypted passwords in shell scripts](https://github.com/gigama/encpass.sh)
 - [enigma: java implementation of enigma, modern attack to decrypt it](https://github.com/gigama/enigma)
+- [exploring-rpi-book: source code for book exploring raspberry pi](https://github.com/gigama/exploring-rpi-book)
 - [extract-proper-nouns: extract proper nouns from english text with nltk pos tagging](https://github.com/gigama/extract-proper-nouns)
 
 
@@ -53,20 +57,24 @@
 - [ffmpeg: mirror of https://git.ffmpeg.org/ffmpeg.git](https://github.com/gigama/ffmpeg)
 - [ffmpeg-video-slideshow-scripts: shell scripts to create video slideshows from images videos](https://github.com/gigama/ffmpeg-video-slideshow-scripts)
 - [fft-image-experiments: fourier transforms to various plane-filling curves patterns](https://github.com/gigama/fft-image-experiments)
-- [financial-models-numerical-methods: collection of notebooks about quantitative finance, interactive python code](https://github.com/gigama/financial-models-numerical-methods)
+- [financial-models-numerical-methods: quantitative finance python notebooks](https://github.com/gigama/financial-models-numerical-methods)
 - [firmwalker: script to search extracted firmware file system for goodies](https://github.com/gigama/firmwalker)
 - [flatten: flatten json in python](https://github.com/gigama/flatten)
 - [folmura: randomly generated visual with randomly generated formula](https://github.com/gigama/folmura)
 - [free-cad: freecad foss multiplatform 3d parametric modeler](https://github.com/gigama/free-cad)
-- [fzf: :cherryblossom: command-line fuzzy finder](https://github.com/gigama/fzf)
+- [fuzzing-strings: strings with high probability of causing issues when used as user-input data](https://github.com/gigama/fuzzing-strings)
+- [fzf: command-line fuzzy finder](https://github.com/gigama/fzf)
 
 
 ## G
 - [ghidra: sre software reverse engineering framework](https://github.com/gigama/ghidra)
+- [gibberish: python pseudo-word generator](https://github.com/gigama/gibberish)
+- [gkill: interactice process killer](https://github.com/gigama/gkill)
 - [glow: render markdown on cli, with pizzazz](https://github.com/gigama/glow)
 - [green-tunnel: anti-censorship utility designed to bypass dpi systems](https://github.com/gigama/green-tunnel)
 - [gron: makes json grep-able](https://github.com/gigama/gron)
 - [grunt: grunt: javascript task runner](https://github.com/gigama/grunt)
+- [grunt-html-snapshot: html snapshots from websites](https://github.com/gigama/grunt-html-snapshot)
 - [gs-quant: python toolkit for quantitative finance](https://github.com/gigama/gs-quant)
 - [gutenhaiku: guten haiku extracts haiku poems from text](https://github.com/gigama/gutenhaiku)
 
@@ -75,7 +83,10 @@
 - [hashcat: world's fastest most advanced password recovery utility](https://github.com/gigama/hashcat)
 - [hilbertcurve: maps between 1-d space filling hilbert curve n-d coordinates](https://github.com/gigama/hilbertcurve)
 - [horcrux: split file into encrypted fragments, no passcode needed](https://github.com/gigama/horcrux)
+- [hosts: hosts files from several well-curated sources](https://github.com/gigama/hosts)
+- [hping: hping network tool](https://github.com/gigama/hping)
 - [htmlq: like jq, but for html](https://github.com/gigama/htmlq)
+- [huginn: create agents that monitor automate actions](https://github.com/gigama/huginn)
 
 
 ## I
@@ -85,8 +96,10 @@
 
 ## J
 - [javis: julia animations visualizations](https://github.com/gigama/javis)
+- [jekyll: blog-aware static site generator in ruby](https://github.com/gigama/jekyll)
 - [jp2a: converts jpg images to ascii](https://github.com/gigama/jp2a)
 - [jq: command-line json processor](https://github.com/gigama/jq)
+- [jsonbase: json files as database backend](https://github.com/gigama/jsonbase)
 
 
 ## K
@@ -124,6 +137,7 @@
 - [netcap: framework for secure scalable network traffic analysis](https://github.com/gigama/netcap)
 - [nipe: engine to make tor network default gateway](https://github.com/gigama/nipe)
 - [not-paid: client did not pay add daily opacity until site completely fades away](https://github.com/gigama/not-paid)
+- [notable: markdown-based note-taking app](https://github.com/gigama/notable)
 - [noteshrink: convert scans of handwritten notes to compact pdfs](https://github.com/gigama/noteshrink)
 - [nvidia-gpu-ml-library-test: tests for jax, pytorch, tensorflow for installed nvidia drivers](https://github.com/gigama/nvidia-gpu-ml-library-test)
 
@@ -149,13 +163,16 @@
 - [pi-lcd: code to interface with 16x2 character i2c lcd display](https://github.com/gigama/pi-lcd)
 - [piggyback: hiding things out in open](https://github.com/gigama/piggyback)
 - [pikvm: open inexpensive diy ip-kvm based on raspberry pi](https://github.com/gigama/pikvm)
+- [pishrink: minimize raspberry pi images](https://github.com/gigama/pishrink)
 - [portable-secret: better privacy without special software](https://github.com/gigama/portable-secret)
 - [princeprocessor: standalone password candidate generator](https://github.com/gigama/princeprocessor)
 - [pure-bash-bible: collection of pure bash alternatives to external processes](https://github.com/gigama/pure-bash-bible)
+- [purritobin: minimalistic encrypted command line paste-bin](https://github.com/gigama/purritobin)
 - [py-cryptography: cryptographic primitives recipes for python](https://github.com/gigama/py-cryptography)
 - [pyautogui: gui automation python module to control mouse & keyboard](https://github.com/gigama/pyautogui)
 - [pyconcorde: python wrapper around concorde tsp solver](https://github.com/gigama/pyconcorde)
 - [pycrypto: python cryptography toolkit](https://github.com/gigama/pycrypto)
+- [pytagcloud: create tag clouds as images or html](https://github.com/gigama/pytagcloud)
 - [python-algorithms: all algorithms implemented in python](https://github.com/gigama/python-algorithms)
 - [python-awesome: python awesome tutorials](https://github.com/gigama/python-awesome)
 - [python-build-standalone: produce redistributable builds of python](https://github.com/gigama/python-build-standalone)
@@ -170,8 +187,10 @@
 
 
 ## R
+- [raneto: markdown powered knowledgebase wiki for node.js](https://github.com/gigama/raneto)
 - [repos: forked repositories](https://github.com/gigama/repos)
 - [requests-html: python html parsing](https://github.com/gigama/requests-html)
+- [reverie: custom jekyll theme with seo, rss, analytics](https://github.com/gigama/reverie)
 - [road-network: quadtree model for generating random road network](https://github.com/gigama/road-network)
 
 
@@ -214,6 +233,7 @@
 
 ## U
 - [umbrella: lightweight javascript library for dom manipulation events](https://github.com/gigama/umbrella)
+- [umskt: universal ms key toolkit](https://github.com/gigama/umskt)
 
 
 ## V
