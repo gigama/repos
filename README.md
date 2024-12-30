@@ -1,7 +1,6 @@
 # repos
 
 
-
 ## A
 - [adafruit-blinka: circuitpython hardware api libraries for micropython, cpython devices](https://github.com/gigama/adafruit-blinka)
 - [autokey: autokey, desktop automation utility for linux x11](https://github.com/gigama/autokey)
@@ -39,7 +38,7 @@
 - [datasette: open source multi-tool for exploring publishing data](https://github.com/gigama/datasette)
 - [diceware: passphrases to remember](https://github.com/gigama/diceware)
 - [dotfiles-dhruva: single dot that has it all](https://github.com/gigama/dotfiles-dhruva)
-- [dotfiles-mathias: dotfiles sensible hacker defaults including ~/.macos](https://github.com/gigama/dotfiles-mathias)
+- [dotfiles-mathias: dotfiles sensible hacker defaults](https://github.com/gigama/dotfiles-mathias)
 - [ds-cheatsheets: list of data science cheatsheets to rule world](https://github.com/gigama/ds-cheatsheets)
 
 
@@ -144,6 +143,7 @@
 
 ## O
 - [oblique-motd: fortune-formatted list of oblique strategies](https://github.com/gigama/oblique-motd)
+- [ollama: llama, mistral, gemma, other llms](https://github.com/gigama/ollama)
 - [one-time-pad: complete python one time pad encryption system](https://github.com/gigama/one-time-pad)
 - [openclbrute: md5 sha hmac bruteforce tools with opencl gpu python](https://github.com/gigama/openclbrute)
 
@@ -205,6 +205,7 @@
 - [snallygaster: tool to scan for secret files on http servers](https://github.com/gigama/snallygaster)
 - [sql-tips-and-tricks: sql tips tricks](https://github.com/gigama/sql-tips-and-tricks)
 - [ssh-audit: ssh server client security auditing](https://github.com/gigama/ssh-audit)
+- [steganographr: hide text in plain sight using invisible zero-width characters](https://github.com/gigama/steganographr)
 - [storj: storj v3 decentralized cloud object storage](https://github.com/gigama/storj)
 - [storj-backup: archive folder contents into single file upload to storj dcs](https://github.com/gigama/storj-backup)
 - [structured-text-tools: list of command-line tools for manipulating structured text data](https://github.com/gigama/structured-text-tools)
