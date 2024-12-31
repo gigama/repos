@@ -3,18 +3,23 @@
 
 ## A
 - [adafruit-blinka: circuitpython hardware api libraries for micropython, cpython devices](https://github.com/gigama/adafruit-blinka)
+- [ai-auto-completion: single-file text editor with real-time ai-powered auto-completion suggestions](https://github.com/gigama/ai-auto-completion)
 - [autokey: autokey, desktop automation utility for linux x11](https://github.com/gigama/autokey)
 - [autosploit: automated mass exploiter](https://github.com/gigama/autosploit)
 - [awesome-intelligence: open-source intelligence (osint) resources](https://github.com/gigama/awesome-intelligence)
+- [awesome-interactive-math: tools for creating interactive mathematical explorables](https://github.com/gigama/awesome-interactive-math)
+- [awesome-low-level-design: learn low level design lld](https://github.com/gigama/awesome-low-level-design)
 - [awesome-userscripts: curated list of awesome userscripts](https://github.com/gigama/awesome-userscripts)
 
 
 ## B
 - [bandwhich: terminal bandwidth utilization tool](https://github.com/gigama/bandwhich)
+- [bashform: create share forms in terminal over ssh](https://github.com/gigama/bashform)
 - [bat: cat(1) clone with wings](https://github.com/gigama/bat)
 - [beryllium-os: unix-like operating system for circuitpython powered microcontrollers](https://github.com/gigama/beryllium-os)
 - [bibi-epub: self-hosted website epub reader](https://github.com/gigama/bibi-epub)
 - [binwalk: firmware analysis tool](https://github.com/gigama/binwalk)
+- [blackcandy: self hosted music streaming server](https://github.com/gigama/blackcandy)
 - [bless-hex: hex editor](https://github.com/gigama/bless-hex)
 - [build-your-own-x: master programming by recreating favorite technologies from scratch](https://github.com/gigama/build-your-own-x)
 
@@ -24,10 +29,12 @@
 - [chezmoi: manage dotfiles across multiple diverse machines, securely](https://github.com/gigama/chezmoi)
 - [classical-cryptanalysis: cryptanalysis of classical ciphers](https://github.com/gigama/classical-cryptanalysis)
 - [cli-marker: terminal command palette](https://github.com/gigama/cli-marker)
+- [codebase-digest: ai-friendly codebase packer analyzer for coding prompts](https://github.com/gigama/codebase-digest)
 - [colly: elegant scraper crawler framework for golang](https://github.com/gigama/colly)
 - [concorde: symmetric traveling salesman problem tsp](https://github.com/gigama/concorde)
 - [cotswoldjam: command-line utilities for raspberry pi](https://github.com/gigama/cotswoldjam)
 - [cryfs: cryptographic filesystem for cloud](https://github.com/gigama/cryfs)
+- [cryptpad: collaborative office suite, end-to-end encrypted open-source](https://github.com/gigama/cryptpad)
 - [cssicon: icon set made with pure css code, no dependencies](https://github.com/gigama/cssicon)
 - [cuda-samples: cuda developer samples to demo cuda toolkit features](https://github.com/gigama/cuda-samples)
 - [cuda-sha256: simple tool to calculate sha256 on gpu using cuda](https://github.com/gigama/cuda-sha256)
@@ -35,8 +42,11 @@
 
 
 ## D
+- [datachain: etl, analytics, versioning for unstructured data](https://github.com/gigama/datachain)
 - [datasette: open source multi-tool for exploring publishing data](https://github.com/gigama/datasette)
+- [deep-claude: structured prompts to get claude to deep dive](https://github.com/gigama/deep-claude)
 - [diceware: passphrases to remember](https://github.com/gigama/diceware)
+- [dosbox-x: dosbox-x fork of dosbox project](https://github.com/gigama/dosbox-x)
 - [dotfiles-dhruva: single dot that has it all](https://github.com/gigama/dotfiles-dhruva)
 - [dotfiles-mathias: dotfiles sensible hacker defaults](https://github.com/gigama/dotfiles-mathias)
 - [ds-cheatsheets: list of data science cheatsheets to rule world](https://github.com/gigama/ds-cheatsheets)
@@ -60,8 +70,9 @@
 - [firmwalker: script to search extracted firmware file system for goodies](https://github.com/gigama/firmwalker)
 - [flatten: flatten json in python](https://github.com/gigama/flatten)
 - [folmura: randomly generated visual with randomly generated formula](https://github.com/gigama/folmura)
+- [formbee: form backend for privacy conscious developers](https://github.com/gigama/formbee)
 - [free-cad: freecad foss multiplatform 3d parametric modeler](https://github.com/gigama/free-cad)
-- [fuzzing-strings: strings with high probability of causing issues when used as user-input data](https://github.com/gigama/fuzzing-strings)
+- [fuzzing-strings: strings likely to cause issues when used as user-input data](https://github.com/gigama/fuzzing-strings)
 - [fzf: command-line fuzzy finder](https://github.com/gigama/fzf)
 
 
@@ -91,6 +102,7 @@
 ## I
 - [icdiff: improved colored diff](https://github.com/gigama/icdiff)
 - [imhex: hex editor](https://github.com/gigama/imhex)
+- [ipychat: ai ipython](https://github.com/gigama/ipychat)
 
 
 ## J
@@ -163,8 +175,11 @@
 - [pi-lcd: code to interface with 16x2 character i2c lcd display](https://github.com/gigama/pi-lcd)
 - [piggyback: hiding things out in open](https://github.com/gigama/piggyback)
 - [pikvm: open inexpensive diy ip-kvm based on raspberry pi](https://github.com/gigama/pikvm)
+- [piper: fast, local neural text to speech system](https://github.com/gigama/piper)
 - [pishrink: minimize raspberry pi images](https://github.com/gigama/pishrink)
+- [podcast-archiver: archive all favorite podcasts](https://github.com/gigama/podcast-archiver)
 - [portable-secret: better privacy without special software](https://github.com/gigama/portable-secret)
+- [portspoof: portspoof](https://github.com/gigama/portspoof)
 - [princeprocessor: standalone password candidate generator](https://github.com/gigama/princeprocessor)
 - [pure-bash-bible: collection of pure bash alternatives to external processes](https://github.com/gigama/pure-bash-bible)
 - [purritobin: minimalistic encrypted command line paste-bin](https://github.com/gigama/purritobin)
@@ -201,8 +216,10 @@
 - [sherlock: hunt down social media accounts by username across social networks](https://github.com/gigama/sherlock)
 - [sigil: urbit sigil](https://github.com/gigama/sigil)
 - [simple-hilbert-curve: plot 1d data in 2d using hilbert curve](https://github.com/gigama/simple-hilbert-curve)
+- [siyuan: self-hosted, open source personal knowledge management software](https://github.com/gigama/siyuan)
 - [slide-rules-generator: library for generating slide rules using haskell diagrams](https://github.com/gigama/slide-rules-generator)
 - [snallygaster: tool to scan for secret files on http servers](https://github.com/gigama/snallygaster)
+- [software-papers: curated list of papers for software engineers](https://github.com/gigama/software-papers)
 - [sql-tips-and-tricks: sql tips tricks](https://github.com/gigama/sql-tips-and-tricks)
 - [ssh-audit: ssh server client security auditing](https://github.com/gigama/ssh-audit)
 - [steganographr: hide text in plain sight using invisible zero-width characters](https://github.com/gigama/steganographr)
@@ -210,6 +227,7 @@
 - [storj-backup: archive folder contents into single file upload to storj dcs](https://github.com/gigama/storj-backup)
 - [structured-text-tools: list of command-line tools for manipulating structured text data](https://github.com/gigama/structured-text-tools)
 - [sunfish-chess: sunfish python chess engine in 111 lines of code](https://github.com/gigama/sunfish-chess)
+- [supertinyicons: miniscule svg versions of website app logos](https://github.com/gigama/supertinyicons)
 
 
 ## T
@@ -250,8 +268,3 @@
 - [wordcloud2: tag cloud/wordle presentation on 2d canvas or html](https://github.com/gigama/wordcloud2)
 - [wordlister: simple wordlists generator mangler with python 3.10.1](https://github.com/gigama/wordlister)
 - [wordcloud: little word cloud generator in python](https://github.com/gigama/wordcloud)
-
-
-## Y
-- [yara: pattern matching swiss knife](https://github.com/gigama/yara)
-- [ydiff: colored, incremental diff in workspace or from stdin, side by side auto paged](https://github.com/gigama/ydiff)
