@@ -131,6 +131,7 @@
 
 
 ## G
+- [gadiguibou/stdrename](https://github.com/gadiguibou/stdrename)
 - [galtay/hilbertcurve](https://github.com/galtay/hilbertcurve)
 - [gautam1858/python-awesome](https://github.com/gautam1858/python-awesome)
 - [gchq/cyberchef](https://github.com/gchq/cyberchef)
