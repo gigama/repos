@@ -204,6 +204,7 @@
 - [kaonashi-passwords/kaonashi](https://github.com/kaonashi-passwords/kaonashi)
 - [katex/katex](https://github.com/katex/katex)
 - [keanemind/python-sha-256](https://github.com/keanemind/python-sha-256)
+- [keen-technologies/physical_atari](https://github.com/keen-technologies/physical_atari)
 - [kennethreitz/requests-html](https://github.com/kennethreitz/requests-html)
 - [kiwix/kiwix-desktop](https://github.com/kiwix/kiwix-desktop)
 - [klafyvel/avr-fft](https://github.com/klafyvel/avr-fft)
