@@ -372,6 +372,7 @@
 - [tomchop/malcom](https://github.com/tomchop/malcom)
 - [tomnomnom/gron](https://github.com/tomnomnom/gron)
 - [topping1/bm25-pdf-search](https://github.com/topping1/bm25-pdf-search)
+- [tr1xem/awcc](https://github.com/tr1xem/awcc)
 - [traconiq/kalman-filter-neon](https://github.com/traconiq/kalman-filter-neon)
 - [tstack/lnav](https://github.com/tstack/lnav)
 - [tuplex/tuplex](https://github.com/tuplex/tuplex)
