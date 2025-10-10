@@ -51,6 +51,7 @@
 - [bkerler/opencl_brute](https://github.com/bkerler/opencl_brute)
 - [bkerler/openclbrute](https://github.com/bkerler/openclbrute)
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)
+- [bleuje/interactive-physarum](https://github.com/bleuje/interactive-physarum)
 - [blogger-peer-review/quotebacks](https://github.com/blogger-peer-review/quotebacks)
 - [braindead-sec/totp-generator](https://github.com/braindead-sec/totp-generator)
 - [browsh-org/browsh](https://github.com/browsh-org/browsh)
@@ -328,6 +329,7 @@
 ## S
 - [sadeghhayeri/greentunnel](https://github.com/sadeghhayeri/greentunnel)
 - [sammyuri/craftgpt](https://github.com/sammyuri/craftgpt)
+- [samsungsailmontreal/tinyrecursivemodels](https://github.com/samsungsailmontreal/tinyrecursivemodels)
 - [satorumurmur/bibi](https://github.com/satorumurmur/bibi)
 - [sauravpanda/browserai](https://github.com/sauravpanda/browserai)
 - [schlagmichdoch/pairdrop](https://github.com/schlagmichdoch/pairdrop)
