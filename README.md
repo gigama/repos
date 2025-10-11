@@ -301,6 +301,7 @@
 - [partialvolume/shredos.x8664](https://github.com/partialvolume/shredos.x8664)
 - [pbatard/rufus](https://github.com/pbatard/rufus)
 - [pcastiglione99/ocr-tools](https://github.com/pcastiglione99/ocr-tools)
+- [pedroscosta/live-state](https://github.com/pedroscosta/live-state)
 - [petewarden/spchcat](https://github.com/petewarden/spchcat)
 - [phitux/dailytxt](https://github.com/phitux/dailytxt)
 - [pikkewyn/talking-clock](https://github.com/pikkewyn/talking-clock)
