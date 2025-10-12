@@ -95,6 +95,7 @@
 - [devmegablaster/bashform](https://github.com/devmegablaster/bashform)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 - [dhruvasagar/dotfiles](https://github.com/dhruvasagar/dotfiles)
+- [dialmasterorg/youtarr](https://github.com/dialmasterorg/youtarr)
 - [dionysius/vaultwarden](https://github.com/dionysius/vaultwarden)
 - [dmishin/fft-image-experiments](https://github.com/dmishin/fft-image-experiments)
 - [drduh/yubikey-guide](https://github.com/drduh/yubikey-guide)
@@ -242,6 +243,7 @@
 - [libsdl-org/sdl/releases](https://github.com/libsdl-org/sdl/releases)
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift)
+- [litesql/pocketbase-ha](https://github.com/litesql/pocketbase-ha)
 - [lsgrep/chrome-extension-ollama-chat](https://github.com/lsgrep/chrome-extension-ollama-chat)
 - [lucasggamerm/moshidon](https://github.com/lucasggamerm/moshidon)
 
@@ -280,6 +282,7 @@
 
 ## N
 - [n0-computer/iroh](https://github.com/n0-computer/iroh)
+- [nathabonfim59/gitid](https://github.com/nathabonfim59/gitid)
 - [neatnik/steganographr](https://github.com/neatnik/steganographr)
 - [neverwalkaloner/classical-cryptanalysis](https://github.com/neverwalkaloner/classical-cryptanalysis)
 - [notable/notable](https://github.com/notable/notable)
