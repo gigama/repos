@@ -79,6 +79,7 @@
 - [cryfs/cryfs](https://github.com/cryfs/cryfs)
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad)
 - [cslarsen/jp2a](https://github.com/cslarsen/jp2a)
+- [curiouslearner/django-postgres-anonymizer](https://github.com/curiouslearner/django-postgres-anonymizer)
 
 
 ## D
