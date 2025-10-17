@@ -56,6 +56,7 @@
 - [braindead-sec/totp-generator](https://github.com/braindead-sec/totp-generator)
 - [browsh-org/browsh](https://github.com/browsh-org/browsh)
 - [buildmirai/mirai](https://github.com/buildmirai/mirai)
+- [bvanjoi/bolt-ts](https://github.com/bvanjoi/bolt-ts)
 - [bwrsandman/bless](https://github.com/bwrsandman/bless)
 
 
