@@ -63,6 +63,7 @@
 ## C
 - [cameronlonsdale/lantern](https://github.com/cameronlonsdale/lantern)
 - [cantaro86/financial-models-numerical-methods](https://github.com/cantaro86/financial-models-numerical-methods)
+- [carverauto/serviceradar](https://github.com/carverauto/serviceradar)
 - [cburgdorf/grunt-html-snapshot](https://github.com/cburgdorf/grunt-html-snapshot)
 - [cinnamon/kotaemon](https://github.com/cinnamon/kotaemon)
 - [cipherodev/pymailer](https://github.com/cipherodev/pymailer)
@@ -147,6 +148,7 @@
 
 ## G
 - [gadiguibou/stdrename](https://github.com/gadiguibou/stdrename)
+- [gafoo173/hardview](https://github.com/gafoo173/hardview)
 - [galtay/hilbertcurve](https://github.com/galtay/hilbertcurve)
 - [gautam1858/python-awesome](https://github.com/gautam1858/python-awesome)
 - [gchq/cyberchef](https://github.com/gchq/cyberchef)
@@ -197,6 +199,7 @@
 - [jameslyons/pythoncryptanalysis](https://github.com/jameslyons/pythoncryptanalysis)
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web)
 - [janw/podcast-archiver](https://github.com/janw/podcast-archiver)
+- [jasonjmcghee/webmcp](https://github.com/jasonjmcghee/webmcp)
 - [jasonxtn/argus](https://github.com/jasonxtn/argus)
 - [jdx/mise](https://github.com/jdx/mise)
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium)
@@ -411,6 +414,7 @@
 - [webgoat/webgoat](https://github.com/webgoat/webgoat)
 - [wentin/cssicon](https://github.com/wentin/cssicon)
 - [werwolv/imhex](https://github.com/werwolv/imhex)
+- [whoschek/bzfs](https://github.com/whoschek/bzfs)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps)
 - [wireguard/wireguard-linux](https://github.com/wireguard/wireguard-linux)
 - [wmmkg5vjx/one-time-pad](https://github.com/wmmkg5vjx/one-time-pad)
