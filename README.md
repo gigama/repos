@@ -99,6 +99,7 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 - [dhruvasagar/dotfiles](https://github.com/dhruvasagar/dotfiles)
 - [dialmasterorg/youtarr](https://github.com/dialmasterorg/youtarr)
+- [dinoz1729/ray](https://github.com/dinoz1729/ray)
 - [dionysius/vaultwarden](https://github.com/dionysius/vaultwarden)
 - [dmishin/fft-image-experiments](https://github.com/dmishin/fft-image-experiments)
 - [drduh/yubikey-guide](https://github.com/drduh/yubikey-guide)
@@ -118,6 +119,7 @@
 
 
 ## E
+- [ebookfoundation/free-programming-books](https://github.com/ebookfoundation/free-programming-books)
 - [edent/supertinyicons](https://github.com/edent/supertinyicons)
 - [edoannunziata/vimape](https://github.com/edoannunziata/vimape)
 - [eeriedusk/knockles](https://github.com/eeriedusk/knockles)
@@ -127,6 +129,7 @@
 - [elliott-diy/emailfinder](https://github.com/elliott-diy/emailfinder)
 - [emenstanougat/esp32-bluejammer](https://github.com/emenstanougat/esp32-bluejammer)
 - [emxsys/callattendant](https://github.com/emxsys/callattendant)
+- [encodeous/nylon](https://github.com/encodeous/nylon)
 - [erkyrath/visizork](https://github.com/erkyrath/visizork)
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
