@@ -8,6 +8,7 @@
 ## A
 - [abagames/folmura](https://github.com/abagames/folmura)
 - [abdullaho/tspdb](https://github.com/abdullaho/tspdb)
+- [acidus99/newswaffle](https://github.com/acidus99/newswaffle)
 - [actions/starter-workflows](https://github.com/actions/starter-workflows)
 - [adafruit/adafruit_blinka](https://github.com/adafruit/adafruit_blinka)
 - [adafruit/adafruitblinka](https://github.com/adafruit/adafruitblinka)
@@ -327,6 +328,7 @@
 - [purritobin/purritobin](https://github.com/purritobin/purritobin)
 - [pyca/cryptography](https://github.com/pyca/cryptography)
 - [pycrypto/pycrypto](https://github.com/pycrypto/pycrypto)
+- [pyscripter/pyscripter](https://github.com/pyscripter/pyscripter)
 
 
 ## R
