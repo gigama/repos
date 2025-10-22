@@ -160,6 +160,7 @@
 - [generalmills/pytrends](https://github.com/generalmills/pytrends)
 - [getpelican/pelican](https://github.com/getpelican/pelican)
 - [getpelican/pelican-themes](https://github.com/getpelican/pelican-themes)
+- [github/spec-kit](https://github.com/github/spec-kit)
 - [gocolly/colly](https://github.com/gocolly/colly)
 - [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant)
 - [golioth/signy](https://github.com/golioth/signy)
@@ -439,3 +440,4 @@
 - [za3k/qr-backup.git](https://github.com/za3k/qr-backup.git)
 - [zasper-io/zasper](https://github.com/zasper-io/zasper)
 - [zx2c4/password-store](https://github.com/zx2c4/password-store)
+- [zyedidia/eget](https://github.com/zyedidia/eget)
