@@ -96,6 +96,7 @@
 - [depshubhq/depshub](https://github.com/depshubhq/depshub)
 - [dereckson/extract-proper-nouns](https://github.com/dereckson/extract-proper-nouns)
 - [derekmolloy/exploringrpi](https://github.com/derekmolloy/exploringrpi)
+- [deta/surf](https://github.com/deta/surf)
 - [devmegablaster/bashform](https://github.com/devmegablaster/bashform)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 - [dhruvasagar/dotfiles](https://github.com/dhruvasagar/dotfiles)
@@ -143,6 +144,7 @@
 - [ffmpeg/ffmpeg](https://github.com/ffmpeg/ffmpeg)
 - [filosottile/age](https://github.com/filosottile/age)
 - [flashlight/flashlight](https://github.com/flashlight/flashlight)
+- [fodydev/afrim](https://github.com/fodydev/afrim)
 - [forensic-architecture/timemap](https://github.com/forensic-architecture/timemap)
 - [formbee/formbee](https://github.com/formbee/formbee)
 - [franciscop/umbrella](https://github.com/franciscop/umbrella)
@@ -342,6 +344,7 @@
 - [rspamd/rspamd](https://github.com/rspamd/rspamd)
 - [rsyncproject/rsync](https://github.com/rsyncproject/rsync)
 - [ryanlelek/raneto](https://github.com/ryanlelek/raneto)
+- [ryanprior/ed-mode](https://github.com/ryanprior/ed-mode)
 
 
 ## S
