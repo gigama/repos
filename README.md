@@ -236,6 +236,7 @@
 - [kamilstanuch/codebase-digest](https://github.com/kamilstanuch/codebase-digest)
 - [kaminoguo/xiaoniao](https://github.com/kaminoguo/xiaoniao)
 - [kaonashi-passwords/kaonashi](https://github.com/kaonashi-passwords/kaonashi)
+- [karpathy/nanochat](https://github.com/karpathy/nanochat)
 - [katex/katex](https://github.com/katex/katex)
 - [keanemind/python-sha-256](https://github.com/keanemind/python-sha-256)
 - [keen-technologies/physical_atari](https://github.com/keen-technologies/physical_atari)
@@ -288,6 +289,7 @@
 - [mikepound/enigma](https://github.com/mikepound/enigma)
 - [mikeroyal/wireguard-guide](https://github.com/mikeroyal/wireguard-guide)
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+- [moazbuilds/codemachine-cli](https://github.com/moazbuilds/codemachine-cli)
 - [mopidy/mopidy](https://github.com/mopidy/mopidy)
 - [moxie0/knockknock](https://github.com/moxie0/knockknock)
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret)
@@ -343,6 +345,7 @@
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)
 - [rspamd/rspamd](https://github.com/rspamd/rspamd)
 - [rsyncproject/rsync](https://github.com/rsyncproject/rsync)
+- [rust-lang/polonius](https://github.com/rust-lang/polonius)
 - [ryanlelek/raneto](https://github.com/ryanlelek/raneto)
 - [ryanprior/ed-mode](https://github.com/ryanprior/ed-mode)
 
