@@ -69,6 +69,7 @@
 - [cinnamon/kotaemon](https://github.com/cinnamon/kotaemon)
 - [cipherodev/pymailer](https://github.com/cipherodev/pymailer)
 - [cisagov/thorium](https://github.com/cisagov/thorium)
+- [cnaize/meds](https://github.com/cnaize/meds)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [coinkite/paper_otp](https://github.com/coinkite/paper_otp)
 - [coinkite/paperotp](https://github.com/coinkite/paperotp)
