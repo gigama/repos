@@ -105,6 +105,7 @@
 - [dinoz1729/ray](https://github.com/dinoz1729/ray)
 - [dionysius/vaultwarden](https://github.com/dionysius/vaultwarden)
 - [dmishin/fft-image-experiments](https://github.com/dmishin/fft-image-experiments)
+- [doctorwkt/acwj](https://github.com/doctorwkt/acwj)
 - [drduh/yubikey-guide](https://github.com/drduh/yubikey-guide)
 - [dreadl0ck/netcap](https://github.com/dreadl0ck/netcap)
 - [drew-alleman/datasurgeon](https://github.com/drew-alleman/datasurgeon)
