@@ -270,6 +270,7 @@
 - [madx/moreutils](https://github.com/madx/moreutils)
 - [manifoldco/torus-cli](https://github.com/manifoldco/torus-cli)
 - [manimcommunity/manim](https://github.com/manimcommunity/manim)
+- [marcpaq/b1fipl](https://github.com/marcpaq/b1fipl)
 - [markdregan/bayesian-modelling-in-python](https://github.com/markdregan/bayesian-modelling-in-python)
 - [mate-desktop/mate-screensaver](https://github.com/mate-desktop/mate-screensaver)
 - [matheuzsecurity/singularity](https://github.com/matheuzsecurity/singularity)
