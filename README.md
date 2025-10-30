@@ -1,6 +1,10 @@
 # repos
 
 
+## 1
+- [1rhino2/rhinowaf](https://github.com/1rhino2/rhinowaf)
+
+
 ## 4
 - [4n4nk3/wordlister](https://github.com/4n4nk3/wordlister)
 
@@ -384,6 +388,7 @@
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons)
 - [taciturnaxolotl/unduckified](https://github.com/taciturnaxolotl/unduckified)
 - [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp)
+- [tailkits/tailkits-ui](https://github.com/tailkits/tailkits-ui)
 - [tanersener/ffmpeg-video-slideshow-scripts](https://github.com/tanersener/ffmpeg-video-slideshow-scripts)
 - [tecnickcom/tcpdf](https://github.com/tecnickcom/tcpdf)
 - [tenrec-builders/pi-scan](https://github.com/tenrec-builders/pi-scan)
@@ -404,6 +409,7 @@
 - [topping1/bm25-pdf-search](https://github.com/topping1/bm25-pdf-search)
 - [tr1xem/awcc](https://github.com/tr1xem/awcc)
 - [traconiq/kalman-filter-neon](https://github.com/traconiq/kalman-filter-neon)
+- [truffle-ai/dexto](https://github.com/truffle-ai/dexto)
 - [tstack/lnav](https://github.com/tstack/lnav)
 - [tuplex/tuplex](https://github.com/tuplex/tuplex)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi)
