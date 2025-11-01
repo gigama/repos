@@ -264,6 +264,7 @@
 - [leetronics/infnoise](https://github.com/leetronics/infnoise)
 - [lemonade-sdk/infinity-arcade](https://github.com/lemonade-sdk/infinity-arcade)
 - [lessonstudio/visualcryptography](https://github.com/lessonstudio/visualcryptography)
+- [libcpu/libcpu](https://github.com/libcpu/libcpu)
 - [libsdl-org/sdl/releases](https://github.com/libsdl-org/sdl/releases)
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift)
